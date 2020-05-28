@@ -14,8 +14,8 @@ All commercial web apps (including this one) provided by AppSeed are released un
 
 > For full information please access [Personal License](https://github.com/app-generator/license-personal)
 
-- Single personal website/app with **NON_PAYING** end-users
-- Single website/app with **NON_PAYING** end-users for a client
+- Create single personal website/app
+- Create single website/app for client
 
 <br />
 
@@ -23,11 +23,9 @@ All commercial web apps (including this one) provided by AppSeed are released un
 
 > For full information please access [Developer License](https://github.com/app-generator/license-developer)
 
-- Multiple personal website/app with **NON_PAYING** end-users
-- Multiple website/app with **NON_PAYING** end-users for a client
-- Single personal website/app with **PAYING** end-users
-- Single website/app with **PAYING** end-users for a client
-- Single SaaS with **PAYING** / **NON_PAYING** end-users
+- Create multiple personal websites/apps
+- Create multiple websites/apps for clients
+- Create single SaaS application
 
 <br />
 
