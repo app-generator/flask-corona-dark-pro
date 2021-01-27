@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.2] 2021-01-27
+### Improvements
+
+- Added (36) missing pages
+
 ## [1.0.1] 2021-01-27
 ### Improvements
 
