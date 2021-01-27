@@ -21,6 +21,7 @@ Corona Dark PRO admin template has beautiful typography, crisp design, and neatl
 
 - [Flask Corona PRO](https://appseed.us/admin-dashboards/flask-dashboard-corona-dark-pro) - product page
 - [Flask Corona PRO Demo](https://flask-corona-dark-pro.appseed-srv1.com/) - LIVE App
+- [Corona PRO - UI Docs](https://www.bootstrapdash.com/demo/corona/jquery/documentation/documentation.html)
 - [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
